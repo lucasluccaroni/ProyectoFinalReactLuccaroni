@@ -1,0 +1,8 @@
+.decoration{
+    text-decoration: underline;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}
